@@ -1,7 +1,7 @@
-This project aims to predict diabetes within patients, taking into consideration binary and multi-class classification as well as the effect of balanced and unbalanced classes on prediction power.
-Take a look at our interactive python notebook (ipynb) file for our code as well as our final paper for a write up of our entire study.
+This project aims to predict diabetes within patients, taking into consideration binary and multi-class classification as well as the effect of balanced and unbalanced classes on prediction power. Take a look at our interactive python notebook (ipynb) file for our code as well as our final paper for a write up of our entire study.
 
 **Abstract**
+
 Diabetes is one of the most common diseases in the world and is especially a major problem in the United
 States. This disease affects the body’s ability to break down sugars, glucose in particular, in the blood.
 Glucose is an important source of energy for the cells that make up the muscles and tissues. It's also the
